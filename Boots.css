@@ -1,0 +1,19 @@
+.fundo-preto {
+    background-color: rgb(8, 8, 8);
+}
+
+.fundo-verde {
+    background-color: #e5e222;
+    color: rgb(239, 95, 12);
+}
+.cor-botao {
+    background-color: rgb(43, 150, 226);
+    border-color:  #4c2ad4;
+}
+.cor-botao:hover {
+    background-color: rgb(41, 135, 208);
+    border-color: #2abad4;
+}
+a:active {
+    background-color: #272426;
+}
